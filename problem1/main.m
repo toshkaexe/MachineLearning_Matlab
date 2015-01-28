@@ -7,3 +7,6 @@ for i=1:1:5
     FullFileName = strcat(file,'.jpg');
     A{i} = colorhist(FullFileName);
 end
+
+%test
+A{5}
