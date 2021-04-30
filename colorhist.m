@@ -1,4 +1,5 @@
 function feature = colorhist(file)
+%test image
 %image = imread ('mirflickr1000/im451.jpg');
 file
 image = imread (file);
