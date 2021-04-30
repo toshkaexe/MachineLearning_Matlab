@@ -1,4 +1,4 @@
-# ML2_Homework5
+# ML2_ Homework about the topic models
 
 Problem 1.2
 Topic Model.
